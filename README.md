@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 3. Run the application:
 ```bash
-python gesture_control.py
+python app.py
 ```
 
 ## License
